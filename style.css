@@ -6,3 +6,17 @@
   width: 50px;
   height: auto;
 }
+
+.main-header {
+  padding-top: 100px;
+}
+
+.subcribe {
+  background-image: url(./assets/img/subscribe.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.brand-icon img {
+  width: 130px;
+}
